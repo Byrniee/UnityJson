@@ -7,5 +7,5 @@ Add the package to your manifest.json file located under the Packages folder.
 
 ```
   "dependencies": {
-    "com.byrniee.unityjson": "git@github.com:Byrniee/UnityJson.git",
+    "com.byrniee.unityjson": "git@github.com:Byrniee/UnityJson.git#1.0.0",
 ```
